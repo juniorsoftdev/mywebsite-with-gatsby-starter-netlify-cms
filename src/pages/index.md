@@ -1,21 +1,21 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
+title: Camping Site!
+image: /img/photo-1475483768296-6163e08872a1-1-.jpg
 heading: My First Website with Netlify!
-subheading: Support sustainable farming while enjoying a cup
+subheading: Why you should go camping?
 mainpitch:
-  title: Why Kaldi
+  title: Sleep under the stars and get a little dirty
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    When the weather is inviting, the smell of campfires and pine trees allure
+    many people into the woods and mountains for camping trips. At the start of
+    summer, when the days are getting longer, or perhaps in fall when the nights
+    are chilly and the leaves are beginning to turn, are ideal times to take to
+    the woods.
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
